@@ -1,0 +1,15 @@
+body {
+  font-family: "Noto Serif Japanese";
+}
+
+
+.header {
+  background-color: #999999;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  font-size: 36px;
+  padding: 20px 40px;
+}
